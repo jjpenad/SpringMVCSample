@@ -1,4 +1,4 @@
-<%@page import="tech.awakelab.demospring2.model.beans.ProductoDTO"%>
+<%@page import="tech.awakelab.SpringMVCSample.model.beans.ProductoDTO"%>
 <%@page import="java.util.ArrayList"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
